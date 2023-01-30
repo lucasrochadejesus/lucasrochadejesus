@@ -34,7 +34,7 @@ A bit about me:
 <img style="width: 72px;" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 
 ### :iphone: Contact
-<a href="https://www.linkedin.com/in/lucas-rocha-de-jesus-a6251089/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+<a href="https://www.linkedin.com/in/lucas-rocha-de-jesus-a6251089/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 &nbsp;
 
