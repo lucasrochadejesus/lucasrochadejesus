@@ -6,7 +6,7 @@ A bit about me:
 
 - :round_pushpin:  Vancouver, BC, Canada (but I'm from Sao Paulo, Brazil)
  
-- :computer:  .NET Developer experienced in building, testing and deploying applications using Microsoft technologies. Skilled in C#, ASP.NET, and MySQL/SQL Server
+- :computer:  .NET Developer experienced in building, testing and deploying applications using Microsoft technologies. Skilled in C#, ASP.NET, VB.NET and MySQL/SQL Server
 
 - :books:  Analysis and Systems Development and Self-taught
 
