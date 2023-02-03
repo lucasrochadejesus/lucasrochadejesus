@@ -31,7 +31,6 @@ A bit about me:
 <img src="https://camo.githubusercontent.com/a4750681e483e667b4bc10c74e2551861a6fe5911d9a8b8296ad5c88f9c9fa40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465267374796c653d706c6173746963"/>
 <img style="width: 95px;" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img style="width: 53px;" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-<img style="width: 72px;" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 
 ### :iphone: Contact
 <a href="https://www.linkedin.com/in/lucas-rocha-de-jesus-a6251089/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
