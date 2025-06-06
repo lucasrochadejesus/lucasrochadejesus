@@ -9,13 +9,5 @@ A bit about me:
 - :computer:  .NET Developer experienced in building, testing and deploying applications using Microsoft technologies. Skilled in C#, ASP.NET, VB.NET and MySQL/SQL Server
 
 - :books:  Analysis and Systems Development and Self-taught
-
- 
-
-### :bar_chart: Stats
-
-[![Lucas Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrochadejesus&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-&nbsp;
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrochadejesus&layout=compact" />
